@@ -1,7 +1,7 @@
-![TodoApi (1)](https://user-images.githubusercontent.com/37639594/136699487-73e8dcda-de4a-4609-aa34-d7ed026ab8c2.png)
+![ScheduledTweets1](https://user-images.githubusercontent.com/37639594/138067476-935f1a5f-e7f1-4029-80dd-c4cd9ec2621b.png)
 
-## TodoApiV1
-its rails API with JWT-TOKEN authentication user can sign in and do any of the CRUD operations.
+## User-athentication
+Implement full user authentication using sessions and signed_id and use mailer to reset password.
 
 ## Built With
 - rails
